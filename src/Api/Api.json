@@ -1,0 +1,62 @@
+{
+	"customer" : 
+	[
+	{	"id":0,
+		"userFullName" : "Aydan Boner",
+		"date"         : "26/06/1994",
+		"country"      : "Turkey",
+		"city"		   : "Ankara",
+		"email"        : "aydan@xyzmail.com"
+	},
+	
+	{	
+		"id":1,
+		"userFullName" : "merlin bon",
+		"date"         : "26/06/1990",
+		"country"      : "USA",
+		"city"		   : "TEXAS",
+		"email"        : "merlin@xyzmail.com"
+	},
+	 
+	{	
+		"id":2,
+	"userFullName" : "john wick",
+	"date"         : "23/07/1989",
+	"country"      : "England",
+	"city"		   : "London",
+	"email"        : "john@xyzmail.com"
+	},
+	 
+	{
+		"id":3,	
+	"userFullName" : "akmaral shondinov",
+	"date"         : "12/11/1986",
+	"country"      : "Russia",
+	"city"		   : "Moskow",
+	"email"        : "maral@xyzmail.com"
+	},
+	{	
+		"id":4,
+		"userFullName" : "elena bashaova",
+		"date"         : "12/11/1986",
+		"country"      : "Russia",
+		"city"		   : "St.petersburg",
+		"email"        : "elena@xyzmail.com"
+	},
+	{	
+		"id":5,
+		"userFullName" : "elena shopnova",
+		"date"         : "13/11/1986",
+		"country"      : "Russia",
+		"city"		   : "St.petersburg",
+		"email"        : "elena@xyzmail.com"
+	},
+	{	"id":6,
+		"userFullName" : "Cevayir Kirişçi",
+		"date"         : "26/06/1994",
+		"country"      : "Turkey",
+		"city"		   : "İstanbul",
+		"email"        : "Cevayir@xyzmail.com"
+	}
+	]	
+}

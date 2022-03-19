@@ -1,0 +1,15 @@
+.Search{
+    width: 709px;
+    height: 46px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing:border-box;
+    border-radius:8px;
+    text-align:center;
+    margin-top:60px;
+    color:rgba(100, 100, 100, 0.5);
+}
+.Search:hover{
+    background:rgb(177, 175, 175);
+    color:#000000;
+}

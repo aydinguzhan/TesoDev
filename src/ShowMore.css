@@ -1,0 +1,90 @@
+.ShowMore-Main{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.ShowMore-Navbar{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+   
+}
+
+.InputArea{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.InputArea input{
+    width:350px;
+    text-align: center;
+}
+.ShowMore-btn{
+    width: 100px;
+    margin-left:10px;
+    border-radius:8px;
+    background-color:rgb(1, 68, 123);
+    color: white;
+}
+.ShowMore-btn:hover{
+    background: rgba(79, 117, 194, 1);
+}
+main{
+    display: flex;
+    width: 100%;
+    justify-content:center;
+}
+.ShowMore-items{
+    width: 80%;
+   
+}
+.order{
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+    justify-content: flex-end;
+    margin-top: 50px;
+    
+}
+.order-img{
+    max-height: 25px ;
+    margin-right: 8px;
+}
+.order-text{
+    margin-right: 10vw;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+}
+.order-text:hover .dropdown-content{
+    cursor: pointer;
+    display: block;
+}
+.dropdown-content>p:hover{
+    background: rgba(196, 196, 196, 1);
+    color:#eeee;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 10px;
+    z-index: 1;
+  }
+
+
